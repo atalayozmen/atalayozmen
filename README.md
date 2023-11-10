@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=F7DF1E)
-![Socket.io](https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
